@@ -38,6 +38,7 @@ var player1 = new Player('Tomek');
 var player2 = new Player('Gary', '400');
 var player3 = new Player('Carl', '1000');
 
+player1.setName('Tomekkio');
 player1.setChips('200');
 
 console.log(player1.getName());
