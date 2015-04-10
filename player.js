@@ -2,7 +2,7 @@
 (function PLAYER() {
 
 	var Player = function(name, credit) {
-		this.name = name;
+		this.name = nameTedicaro;
 		if (credit) { 
 			this.credit = credit;
 		}
