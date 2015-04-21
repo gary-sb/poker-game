@@ -1,4 +1,4 @@
-
+// testing connection
 (function PLAYER() {
 
 	var Player = function(name, credit) {
